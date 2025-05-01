@@ -4,6 +4,4 @@
 <p>Trần Tiến Đạt 23010200</p>
 <p>Đặng Thanh Tùng 23010218</p>
 <p>Lê Hồng Quốc 23010204</p>
-<p>Phạm Ngọc Luân 23010268</p>
 
-![Image](https://github.com/user-attachments/assets/6d16eadf-ac43-4b57-8c1e-214e905e6a97)
